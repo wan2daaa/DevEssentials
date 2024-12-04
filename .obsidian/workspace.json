@@ -11,10 +11,14 @@
             "id": "54abc7844e8bf037",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Infra/Docker/Docker Layer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Docker Layer"
             }
           }
         ]
@@ -168,6 +172,18 @@
   },
   "active": "54abc7844e8bf037",
   "lastOpenFiles": [
+    "assets/Pasted image 20241204132655.png",
+    "Infra/AWS/EKS/eksctl.md",
+    "Infra/Docker/Docker Layer.md",
+    "Infra/Docker",
+    "Infra/Terraform/terrafrom.md",
+    "Infra/K8S",
+    "Infra/Terraform/Terrafrom 간단한 예시.md",
+    "Infra/AWS/EKS",
+    "Infra/AWS",
+    "Infra/Terraform",
+    "Infra",
+    "K8S",
     "네트워크/프로토콜.md",
     "네트워크/코파일러.md",
     "네트워크/네트워크.md",
@@ -187,21 +203,12 @@
     "네트워크/기본구조/통신매체.md",
     "기본구조/네트워크.md",
     "기본구조",
-    "네트워크/범위에따른네트워크분류",
     "네트워크/기본구조/통신.md",
     "기본구조/호스트.md",
-    "네트워크/기본구조",
     "네트워크/기본구조/네트워크 장비.md",
     "네트워크/기본구조/인터넷.md",
-    "네트워크/기본구조",
     "네트워크/Network Reference.md",
-    "무제 파일 1.md",
-    "자료구조/자료구조.md",
-    "자료구조",
-    "네트워크",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "create a link.md",
-    "Welcome.md"
+    "무제 파일.canvas"
   ]
 }
