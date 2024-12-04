@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f06d3fcf1dcde56e",
+        "id": "873a4a690a067d79",
         "type": "tabs",
         "children": [
           {
-            "id": "54abc7844e8bf037",
+            "id": "fe84b0edd2e9f79f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infra/Docker/Docker Layer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Docker Layer"
+              "title": "새 탭"
             }
           }
         ]
@@ -170,15 +166,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54abc7844e8bf037",
+  "active": "fe84b0edd2e9f79f",
   "lastOpenFiles": [
+    "K8S/ReplicaSet.md",
+    "K8S/kubectl.md",
+    "terminal/명령어들 팁.md",
+    "terminal",
+    "Infra/Terraform/terrafrom.md",
+    "Infra/Terraform/Terrafrom 간단한 예시.md",
+    "K8S/Pod 관리 방식/Deamonset.md",
+    "K8S/Pod 관리 방식/StatefulSet.md",
+    "K8S/Pod 관리 방식/Deployment.md",
+    "K8S/Pod 관리 방식/CronJob.md",
+    "K8S/Pod.md",
+    "K8S/Pod 관리 방식.md",
+    "K8S/Pod 관리 방식",
+    "Infra/Docker/Docker Layer.md",
     "assets/Pasted image 20241204132655.png",
     "Infra/AWS/EKS/eksctl.md",
-    "Infra/Docker/Docker Layer.md",
     "Infra/Docker",
-    "Infra/Terraform/terrafrom.md",
     "Infra/K8S",
-    "Infra/Terraform/Terrafrom 간단한 예시.md",
     "Infra/AWS/EKS",
     "Infra/AWS",
     "Infra/Terraform",
@@ -193,21 +200,11 @@
     "네트워크/범위에따른네트워크분류/WAN.md",
     "네트워크/범위에따른네트워크분류/무제 파일.md",
     "네트워크/범위에따른네트워크분류/LAN.md",
-    "assets",
     "무제 파일.md",
     "자료구조/그래프.md",
     "통신.md",
     "[메시지.md",
     "네트워크/기본구조/메시지.md",
-    "네트워크/기본구조/호스트.md",
-    "네트워크/기본구조/통신매체.md",
-    "기본구조/네트워크.md",
-    "기본구조",
-    "네트워크/기본구조/통신.md",
-    "기본구조/호스트.md",
-    "네트워크/기본구조/네트워크 장비.md",
-    "네트워크/기본구조/인터넷.md",
-    "네트워크/Network Reference.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
