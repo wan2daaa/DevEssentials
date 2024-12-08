@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "168351889654eaef",
+        "id": "f4ac94c2abe2b348",
         "type": "tabs",
         "children": [
           {
-            "id": "e5020f22e6afc96a",
+            "id": "c42c2d0cdac2ea95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Infra/AWS/EKS/authentication mode.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "authentication mode"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 380.5
   },
   "right": {
     "id": "622d948ce2165164",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Infra/AWS/EKS/authentication mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "authentication mode의 백링크"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Infra/AWS/EKS/authentication mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "authentication mode의 나가는 링크"
             }
           },
           {
@@ -126,9 +132,31 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "dec6f2ee74192d01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Infra/AWS/EKS/authentication mode.md"
+              },
+              "icon": "lucide-list",
+              "title": "authentication mode 개요"
+            }
+          },
+          {
+            "id": "e3dee6401ff93e0e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,21 +174,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08c98003877fcf89",
+  "active": "dec6f2ee74192d01",
   "lastOpenFiles": [
-    "K8S/ReplicaSet.md",
-    "K8S/kubectl.md",
+    "Infra/Terraform/terraform 기존 aws 리소스 가져오고 수정하기.md",
+    "Infra/AWS/EKS/authentication mode.md",
+    "Infra/Terraform/명령어.md",
+    "Infra/Terraform/terrafrom.md",
+    "Infra/K8S/Pod 접근 방식/Service.md",
+    "Infra/K8S/Pod 접근 방식/Ingress.md",
+    "Infra/K8S/Helm/Helm.md",
+    "assets/스크린샷 2024-12-06 오전 11.39.52.png",
+    "Infra/K8S/K8S 리소스 관리/Kustomize.md",
+    "Infra/K8S/Helm",
+    "assets/스크린샷 2024-12-06 오전 11.11.25.png",
+    "assets/스크린샷 2024-12-05 오후 2.18.33.png",
+    "assets/Pasted image 20241205141629.png",
+    "Infra/K8S/K8S 리소스 관리/K8S 리소스 관리 문제점.md",
+    "Infra/K8S/Kustomize.md",
+    "Infra/K8S/K8S 리소스 관리",
+    "Infra/AWS/EKS/서브넷 태그.md",
+    "Infra/K8S/kubectl.md",
+    "assets/스크린샷 2024-12-05 오전 10.28.29.png",
+    "Infra/K8S/Pod 접근 방식/Service Type.md",
+    "assets/스크린샷 2024-12-05 오전 10.25.19.png",
+    "assets/스크린샷 2024-12-05 오전 10.18.13.png",
+    "Infra/K8S/Pod 접근 방식",
+    "Infra/K8S/ReplicaSet.md",
     "terminal/명령어들 팁.md",
     "terminal",
-    "Infra/Terraform/terrafrom.md",
     "Infra/Terraform/Terrafrom 간단한 예시.md",
-    "K8S/Pod 관리 방식/Deamonset.md",
-    "K8S/Pod 관리 방식/StatefulSet.md",
-    "K8S/Pod 관리 방식/Deployment.md",
-    "K8S/Pod 관리 방식/CronJob.md",
-    "K8S/Pod.md",
+    "Infra/K8S/Pod 관리 방식/Deamonset.md",
+    "Infra/K8S/Pod 관리 방식/StatefulSet.md",
+    "Infra/K8S/Pod 관리 방식/Deployment.md",
+    "Infra/K8S/Pod 관리 방식/CronJob.md",
+    "Infra/K8S/Pod.md",
     "K8S/Pod 관리 방식.md",
-    "K8S/Pod 관리 방식",
+    "Infra/K8S/Pod 관리 방식",
     "Infra/Docker/Docker Layer.md",
     "assets/Pasted image 20241204132655.png",
     "Infra/AWS/EKS/eksctl.md",
@@ -169,22 +218,8 @@
     "Infra/AWS/EKS",
     "Infra/AWS",
     "Infra/Terraform",
-    "Infra",
-    "K8S",
     "네트워크/프로토콜.md",
     "네트워크/코파일러.md",
-    "네트워크/네트워크.md",
-    "네트워크/메시지교환방식에따른네트워크분류/회선 교환 방식.md",
-    "네트워크/메시지교환방식에따른네트워크분류/패킷 교환 방식.md",
-    "네트워크/메시지교환방식에따른네트워크분류",
-    "네트워크/범위에따른네트워크분류/WAN.md",
-    "네트워크/범위에따른네트워크분류/무제 파일.md",
-    "네트워크/범위에따른네트워크분류/LAN.md",
-    "무제 파일.md",
-    "자료구조/그래프.md",
-    "통신.md",
-    "[메시지.md",
-    "네트워크/기본구조/메시지.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
