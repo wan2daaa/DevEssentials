@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ac94c2abe2b348",
+        "id": "f513b845661c2082",
         "type": "tabs",
         "children": [
           {
-            "id": "c42c2d0cdac2ea95",
+            "id": "b6d05aef8153e217",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infra/AWS/EKS/authentication mode.md",
+                "file": "Spring/Batch/Configure-Run a Job/Configuring a JobRepository.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "authentication mode"
+              "title": "Configuring a JobRepository"
             }
           }
         ]
@@ -74,10 +76,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "6bf229dccaff99d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed181bdba7d4cc36",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 345.5
   },
   "right": {
     "id": "622d948ce2165164",
@@ -139,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infra/AWS/EKS/authentication mode.md"
+                "file": "Infra/AWS/EKS/eksctl.md"
               },
               "icon": "lucide-list",
-              "title": "authentication mode 개요"
+              "title": "eksctl 개요"
             }
           },
           {
@@ -165,62 +183,63 @@
   "left-ribbon": {
     "hiddenItems": {
       "workspaces:작업 공간 레이아웃 관리": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "dec6f2ee74192d01",
+  "active": "b6d05aef8153e217",
   "lastOpenFiles": [
-    "Infra/Terraform/terraform 기존 aws 리소스 가져오고 수정하기.md",
+    "2024-12-15.md",
+    "무제 파일.canvas",
+    "Spring/Batch/Configure-Run a Job/Configuring a JobRepository.md",
+    "무제 파일 1.canvas",
+    "Spring/Batch/Configure-Run a Job/Configure Job.md",
+    "단어장.md",
+    "Spring/Batch/Domain Language of Batch/3. JobRepository.md",
+    "Spring/Batch/Configure-Run a Job/Configuring a JobLauncher.md",
+    "Spring/Batch/Configure-Run a Job/Java Configuration.md",
+    "Spring/Batch/Configure-Run a Job",
+    "Spring/Batch/Domain Language of Batch/6. Batch Namespace.md",
+    "Spring/Batch/Domain Language of Batch/5. ItemReader, Writer, Processor.md",
+    "Spring/Batch/Domain Language of Batch/4. JobLauncher.md",
+    "Spring/Batch/Domain Language of Batch/2. Step.md",
+    "assets/Pasted image 20241215200948.png",
+    "Spring/Batch/Domain Language of Batch/1. Job.md",
+    "Spring/Batch/Domain Language of Batch.md",
+    "Spring/Batch/Architecture.md",
+    "Spring/Batch/Domain Language of Batch/0. 기본 컨셉.md",
+    "Spring/Batch/Domain Language of Batch",
+    "assets/Pasted image 20241215194339.png",
+    "assets/Pasted image 20241215192838.png",
+    "assets/Pasted image 20241215192336.png",
+    "assets/Pasted image 20241215185622.png",
+    "Spring/Batch/Spring Batch.md",
+    "Spring/Batch",
+    "Spring",
+    "Infra/K8S/Istio/Istio.md",
+    "Infra/AWS/Batch/Batch.md",
+    "Infra/K8S/Istio",
+    "Infra/AWS/Batch",
+    "Infra/K8S/ingress 적용안됨 이슈 (nginx - controller).md",
+    "Infra/K8S/kubectl.md",
+    "Infra/AWS/EKS/서브넷 태그.md",
     "Infra/AWS/EKS/authentication mode.md",
-    "Infra/Terraform/명령어.md",
-    "Infra/Terraform/terrafrom.md",
-    "Infra/K8S/Pod 접근 방식/Service.md",
-    "Infra/K8S/Pod 접근 방식/Ingress.md",
-    "Infra/K8S/Helm/Helm.md",
+    "Infra/AWS/EKS/eksctl.md",
+    "Infra/K8S/K8S 리소스 관리/K8S 리소스 관리 문제점.md",
+    "Infra/Terraform/terraform 기존 aws 리소스 가져오고 수정하기.md",
     "assets/스크린샷 2024-12-06 오전 11.39.52.png",
-    "Infra/K8S/K8S 리소스 관리/Kustomize.md",
     "Infra/K8S/Helm",
     "assets/스크린샷 2024-12-06 오전 11.11.25.png",
     "assets/스크린샷 2024-12-05 오후 2.18.33.png",
     "assets/Pasted image 20241205141629.png",
-    "Infra/K8S/K8S 리소스 관리/K8S 리소스 관리 문제점.md",
-    "Infra/K8S/Kustomize.md",
     "Infra/K8S/K8S 리소스 관리",
-    "Infra/AWS/EKS/서브넷 태그.md",
-    "Infra/K8S/kubectl.md",
     "assets/스크린샷 2024-12-05 오전 10.28.29.png",
-    "Infra/K8S/Pod 접근 방식/Service Type.md",
-    "assets/스크린샷 2024-12-05 오전 10.25.19.png",
-    "assets/스크린샷 2024-12-05 오전 10.18.13.png",
     "Infra/K8S/Pod 접근 방식",
-    "Infra/K8S/ReplicaSet.md",
-    "terminal/명령어들 팁.md",
-    "terminal",
-    "Infra/Terraform/Terrafrom 간단한 예시.md",
-    "Infra/K8S/Pod 관리 방식/Deamonset.md",
-    "Infra/K8S/Pod 관리 방식/StatefulSet.md",
-    "Infra/K8S/Pod 관리 방식/Deployment.md",
-    "Infra/K8S/Pod 관리 방식/CronJob.md",
-    "Infra/K8S/Pod.md",
-    "K8S/Pod 관리 방식.md",
-    "Infra/K8S/Pod 관리 방식",
-    "Infra/Docker/Docker Layer.md",
-    "assets/Pasted image 20241204132655.png",
-    "Infra/AWS/EKS/eksctl.md",
-    "Infra/Docker",
-    "Infra/K8S",
-    "Infra/AWS/EKS",
-    "Infra/AWS",
-    "Infra/Terraform",
-    "네트워크/프로토콜.md",
-    "네트워크/코파일러.md",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas"
+    "terminal"
   ]
 }

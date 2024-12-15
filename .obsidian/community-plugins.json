@@ -1,5 +1,9 @@
 [
   "editing-toolbar",
   "highlightr-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "tag-wrangler",
+  "recent-files-obsidian",
+  "obsidian-outliner",
+  "obsidian-icon-folder"
 ]

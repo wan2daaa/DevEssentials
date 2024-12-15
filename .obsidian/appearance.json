@@ -1,4 +1,10 @@
 {
   "theme": "system",
-  "translucency": true
+  "translucency": true,
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Monaspace Argon",
+  "monospaceFontFamily": "Monaspace Argon",
+  "baseFontSizeAction": true
 }

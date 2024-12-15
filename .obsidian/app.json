@@ -6,5 +6,10 @@
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "readableLineLength": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "tabSize": 2,
+  "vimMode": false
 }
