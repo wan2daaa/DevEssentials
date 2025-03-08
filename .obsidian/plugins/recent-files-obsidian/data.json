@@ -1,12 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "Configuring a JobRepository",
-      "path": "Spring/Batch/Configure-Run a Job/Configuring a JobRepository.md"
+      "basename": "단어장",
+      "path": "단어장.md"
+    },
+    {
+      "basename": "프로세스",
+      "path": "운영체제/프로세스.md"
+    },
+    {
+      "basename": "스레드",
+      "path": "운영체제/스레드.md"
+    },
+    {
+      "basename": "정책(Policy)",
+      "path": "Infra/AWS/IAM/정책(Policy).md"
+    },
+    {
+      "basename": "IAM",
+      "path": "Infra/AWS/IAM/IAM.md"
+    },
+    {
+      "basename": "IAM-사용자",
+      "path": "Infra/AWS/IAM/IAM-사용자.md"
+    },
+    {
+      "basename": "주요 개념",
+      "path": "Infra/Terraform/BestPractice/주요 개념.md"
+    },
+    {
+      "basename": "Advanced Metadata Usage",
+      "path": "Spring/Batch/Configure-Run a Job/Advanced Metadata Usage.md"
+    },
+    {
+      "basename": "Terrafrom 간단한 예시",
+      "path": "Infra/Terraform/Terrafrom 간단한 예시.md"
+    },
+    {
+      "basename": "terraform 기존 aws 리소스 가져오고 수정하기",
+      "path": "Infra/Terraform/terraform 기존 aws 리소스 가져오고 수정하기.md"
+    },
+    {
+      "basename": "terrafrom",
+      "path": "Infra/Terraform/terrafrom.md"
+    },
+    {
+      "basename": "명령어",
+      "path": "Infra/Terraform/명령어.md"
+    },
+    {
+      "basename": "Istio",
+      "path": "Infra/K8S/Istio/Istio.md"
+    },
+    {
+      "basename": "Ingress",
+      "path": "Infra/K8S/Pod 접근 방식/Ingress.md"
+    },
+    {
+      "basename": "Kustomize",
+      "path": "Infra/K8S/K8S 리소스 관리/Kustomize.md"
+    },
+    {
+      "basename": "K8S 리소스 관리 문제점",
+      "path": "Infra/K8S/K8S 리소스 관리/K8S 리소스 관리 문제점.md"
+    },
+    {
+      "basename": "kubectl",
+      "path": "Infra/K8S/kubectl.md"
+    },
+    {
+      "basename": "Pod",
+      "path": "Infra/K8S/Pod.md"
+    },
+    {
+      "basename": "2. Step",
+      "path": "Spring/Batch/Domain Language of Batch/2. Step.md"
+    },
+    {
+      "basename": "1. Job",
+      "path": "Spring/Batch/Domain Language of Batch/1. Job.md"
+    },
+    {
+      "basename": "3. JobRepository",
+      "path": "Spring/Batch/Domain Language of Batch/3. JobRepository.md"
+    },
+    {
+      "basename": "5. ItemReader, Writer, Processor",
+      "path": "Spring/Batch/Domain Language of Batch/5. ItemReader, Writer, Processor.md"
+    },
+    {
+      "basename": "4. JobLauncher",
+      "path": "Spring/Batch/Domain Language of Batch/4. JobLauncher.md"
+    },
+    {
+      "basename": "Running a Job",
+      "path": "Spring/Batch/Configure-Run a Job/Running a Job.md"
+    },
+    {
+      "basename": "Java Configuration",
+      "path": "Spring/Batch/Configure-Run a Job/Java Configuration.md"
     },
     {
       "basename": "Configure Job",
       "path": "Spring/Batch/Configure-Run a Job/Configure Job.md"
+    },
+    {
+      "basename": "Configuring a JobLauncher",
+      "path": "Spring/Batch/Configure-Run a Job/Configuring a JobLauncher.md"
+    },
+    {
+      "basename": "Configuring a JobRepository",
+      "path": "Spring/Batch/Configure-Run a Job/Configuring a JobRepository.md"
     }
   ],
   "omittedPaths": [],
